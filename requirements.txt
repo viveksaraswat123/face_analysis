@@ -1,0 +1,7 @@
+# ===== Core Dependencies =====
+opencv-python>=4.9.0
+numpy>=1.24.0
+
+# ===== Face Landmark Detection (Official Google Library) =====
+# Works best on Python 3.8–3.11
+mediapipe>=0.10.14
